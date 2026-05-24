@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "name": "Fritzlee Maurer ",
+      "email": "fritz@gmail.com",
+      "password": "fritzlee",
+      "id": "-a-_h_d8t0A"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Food & Drink",
+      "color": "#E53935",
+      "icon": "🍔"
+    },
+    {
+      "id": "2",
+      "name": "Transport",
+      "color": "#F57C00",
+      "icon": "🚗"
+    },
+    {
+      "id": "3",
+      "name": "Housing",
+      "color": "#388E3C",
+      "icon": "🏠"
+    },
+    {
+      "id": "4",
+      "name": "Shopping",
+      "color": "#7B1FA2",
+      "icon": "🛍"
+    },
+    {
+      "id": "5",
+      "name": "Entertainment",
+      "color": "#0288D1",
+      "icon": "🎮"
+    },
+    {
+      "id": "6",
+      "name": "Health",
+      "color": "#00838F",
+      "icon": "💊"
+    }
+  ],
+  "expenses": [
+    {
+      "title": "Lunch",
+      "amount": 500,
+      "categoryId": "1",
+      "date": "2026-05-24",
+      "createdAt": "2026-05-24T10:25:25.489Z",
+      "id": "2orFBF10kTE"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
